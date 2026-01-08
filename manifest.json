@@ -40,7 +40,7 @@
     ],
     "browser_specific_settings": {
         "gecko": {
-            "id": "manaquiz@themirrazz.vercel.app",
+            "id": "manaquiz0@themirrazz.vercel.app",
             "data_collection_permissions": {
                 "required": ["none"]
             }
