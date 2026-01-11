@@ -6,9 +6,12 @@ TBD
 
 ## How to install
 ### 1. Install from AMO
-I'll fill this extension out once it gets on AMO
+Install it here: [Mana - Get this extension for 🦊 Firefox (en-US)](https://addons.mozilla.org/en-US/firefox/addon/mana/)
 
-## 2. Install manually
+### 2. Install manually
+Go to the "Releases" tab and download it from there. If it warns you about untrusted addons, just ignore it, it should install anyways.
+
+### 3. Install from source
 > [!WARNING]
 > You'll have to do this each time you restart Firefox.
 
