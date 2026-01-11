@@ -5,7 +5,7 @@ This extension allows you to fill out Locked Quizzes on Google Forms. Tested on 
 TBD
 
 ## How to install
-> [!NOTICE]
+> [!NOTE]
 > You can only uninstall through AMO if you install it through AMO or the Releases tab.
 
 ### 1. Install from AMO
