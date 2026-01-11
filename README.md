@@ -5,6 +5,9 @@ This extension allows you to fill out Locked Quizzes on Google Forms. Tested on 
 TBD
 
 ## How to install
+> [!NOTICE]
+> You can only uninstall through AMO if you install it through AMO or the Releases tab.
+
 ### 1. Install from AMO
 Install it here: [Mana - Get this extension for 🦊 Firefox (en-US)](https://addons.mozilla.org/en-US/firefox/addon/mana/)
 
