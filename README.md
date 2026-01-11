@@ -9,7 +9,7 @@ TBD
 I'll fill this extension out once it gets on AMO
 
 ## 2. Install manually
-> ![WARNING]
+> [!WARNING]
 > You'll have to do this each time you restart Firefox.
 
 1. Download the source code as a ZIP file.
